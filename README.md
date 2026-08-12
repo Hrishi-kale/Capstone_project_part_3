@@ -139,8 +139,8 @@ used as a general-purpose collision-sensitive hash in the first place.
 
 **Hardcoded pattern (original):**
 ```python
-API_KEY = "sk_live_51Hh2xJ2eZvKYlo2C..."
-DB_PASSWORD = "SuperSecret123!"
+API_KEY = "EXAMPLE_API_KEY..."
+DB_PASSWORD = "EXAMPLE_PASSWORD!"
 ```
 
 **Refactored pattern (this repository, `app.py`):**
